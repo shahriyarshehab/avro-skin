@@ -6,7 +6,7 @@ A small collection of custom skins for Avro Keyboard.
 
 ### Obsidian
 
-Dark indigo styling with English and Bangla language buttons.
+Compact midnight Obsidian styling with cyan highlights and distinct red Exit feedback.
 
 ![Obsidian skin preview](previews/obsidian.png)
 
